@@ -1,0 +1,24 @@
+.centrar {
+    position: relative;
+    top: 10vh;
+    margin: 5px;
+}
+
+.ocupar {
+    height: 100vh;
+}
+
+.tamanoLinks {
+    width: 150px;
+}
+
+#clave {
+    background-image: url('https://static-00.iconduck.com/assets.00/search-icon-2048x2048-cmujl7en.png'); 
+    background-position: 10px 12px; 
+    background-repeat: no-repeat; 
+    background-size: 1.5%;
+    width: 100%; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    margin-bottom: 12px; 
+  }

@@ -1,0 +1,16 @@
+.centrar {
+    position: relative;
+    left: 30vw;
+    top: 30vh;
+}
+
+.centrarNuevo {
+    position: relative;
+    top: 20vh;
+}
+
+
+.ocupar {
+    width: 100vw;
+    height: 100vh;
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplergyMovil</string>
+    <string name="generalTitle"> Applergy </string>
+    <string name="inicio"> Acceso </string>
+    <string name="acceder"> Acceder </string>
+    <string name="registroTitulo"> Registro </string>
+    <string name="registrado"> ¿No tienes cuenta? </string>
+    <string name="registro"> Crea una </string>
+</resources>

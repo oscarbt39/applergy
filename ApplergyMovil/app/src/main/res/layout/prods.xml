@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:gravity="center">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_prod"
+    android:orientation="vertical"
+    android:layout_marginBottom="10dp"
+    android:gravity="center">
+
+            <!-- Img -->
+            <ImageView
+                android:id="@+id/img"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:srcCompat="@drawable/check"
+                android:scaleType="fitCenter"
+                android:layout_weight="6"
+                />
+
+                <!-- Titulo y secundario-->
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:minHeight="90dp"
+                    android:text=""
+                    android:textSize="@dimen/tamano_grande"
+                    android:textAlignment="center"
+                    android:textAppearance="?attr/textAppearanceTitleMedium"
+                    android:layout_weight="2"/>
+                <TextView
+                    android:id="@+id/secondTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:minHeight="70dp"
+                    android:text=""
+                    android:textSize="@dimen/tamano_mediano"
+                    android:textAlignment="center"
+                    android:textAppearance="?attr/textAppearanceBodyMedium"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:layout_weight="2"
+                    />
+</LinearLayout>
+
+</FrameLayout>

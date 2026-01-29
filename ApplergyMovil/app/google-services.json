@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163958055079",
+    "project_id": "applergy-341fd",
+    "storage_bucket": "applergy-341fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163958055079:android:dc381de33c358210117b82",
+        "android_client_info": {
+          "package_name": "com.example.applergymovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nCnJiMlG6kR-GFAm9e3cm4FUJf-xrJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
