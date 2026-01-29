@@ -42,4 +42,4 @@ Para ejecutar el proyecto localmente:
 ## 👨‍💻 Sobre mí
 Recién graduado en **DAM** y actualmente cursando el **Máster de FP en Desarrollo de Videojuegos y Realidad Virtual**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
 
-[Mi Portfolio en Itch.io (Próximamente)] | [LinkedIn](TU_LINK_DE_LINKEDIN)
+[Mi Portfolio en Itch.io (Próximamente)] 
