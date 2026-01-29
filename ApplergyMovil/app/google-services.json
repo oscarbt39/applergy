@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "163958055079",
     "project_id": "applergy-341fd",
-    "storage_bucket": "applergy-341fd.firebasestorage.app"
+    "storage_bucket": "MiProyectoStorageBucket"
   },
   "client": [
     {
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB9nCnJiMlG6kR-GFAm9e3cm4FUJf-xrJM"
+          "current_key": "MiAPIKey"
         }
       ],
       "services": {
