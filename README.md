@@ -42,6 +42,14 @@ Para ejecutar el proyecto localmente:
 
 <img width="473" height="432" alt="imagen" src="https://github.com/user-attachments/assets/b750d2af-c70d-4ee7-99a6-70f0ebbe6e98" />
 
+<img width="477" height="364" alt="imagen" src="https://github.com/user-attachments/assets/b12c5d63-8397-43ac-a519-6d610925b444" />
+
+<img width="1363" height="604" alt="imagen" src="https://github.com/user-attachments/assets/ed28cca6-5fef-4ad0-9753-5cf8625f149d" />
+
+<img width="549" height="367" alt="imagen" src="https://github.com/user-attachments/assets/638a099d-6faa-423b-aa45-3db2c268ce20" />
+
+<img width="414" height="360" alt="imagen" src="https://github.com/user-attachments/assets/470ae379-e8a8-4d6a-9b52-5eef5ab6d51c" />
+
 <img width="324" height="254" alt="imagen" src="https://github.com/user-attachments/assets/49160457-3220-4dbc-8f32-c4b3599fb301" />
 
 <img width="717" height="258" alt="imagen" src="https://github.com/user-attachments/assets/608ecd6c-efd3-498a-8cae-f141389492ba" />
