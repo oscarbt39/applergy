@@ -40,7 +40,7 @@ Para ejecutar el proyecto localmente:
 ---
 ## Algunas capturas
 
-<img width="471" height="437" alt="imagen" src="https://github.com/user-attachments/assets/19d12a80-412f-474f-a52b-b8562b50113c" />
+<img width="473" height="432" alt="imagen" src="https://github.com/user-attachments/assets/b750d2af-c70d-4ee7-99a6-70f0ebbe6e98" />
 
 <img width="324" height="254" alt="imagen" src="https://github.com/user-attachments/assets/49160457-3220-4dbc-8f32-c4b3599fb301" />
 
