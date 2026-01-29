@@ -38,6 +38,17 @@ Para ejecutar el proyecto localmente:
 4. Ejecuta `npm install` en la parte web y sincroniza Gradle en la parte móvil.
 
 ---
+## Algunas capturas
+
+<img width="471" height="437" alt="imagen" src="https://github.com/user-attachments/assets/19d12a80-412f-474f-a52b-b8562b50113c" />
+
+<img width="324" height="254" alt="imagen" src="https://github.com/user-attachments/assets/49160457-3220-4dbc-8f32-c4b3599fb301" />
+
+<img width="717" height="258" alt="imagen" src="https://github.com/user-attachments/assets/608ecd6c-efd3-498a-8cae-f141389492ba" />
+
+<img width="655" height="287" alt="imagen" src="https://github.com/user-attachments/assets/4ba6b351-2adc-4df7-bef1-c9454b8dd61a" />
+
+---
 
 ## 👨‍💻 Sobre mí
 Recién graduado en **DAM** y actualmente cursando el **Máster de FP en Desarrollo de Videojuegos y Realidad Virtual**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
