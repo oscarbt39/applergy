@@ -1,44 +1,45 @@
-# 🍎 Applergy - Gestión Inteligente de Alérgenos
+# 🍎 Applergy - Smart Allergen Management
 
-**Applergy** es un ecosistema multiplataforma diseñado para facilitar la gestión de inventario y la seguridad alimentaria. Este proyecto fue mi Trabajo de Fin de Grado (TFG) en el CFGS de DAM, donde integré el desarrollo móvil nativo con una interfaz administrativa web dinámica.
+**Applergy** is a cross-platform ecosystem designed to streamline inventory management and food safety. This project was my Capstone Project (TFG) for the Higher Degree in Multiplatform Applications Development (DAM), where I integrated native mobile development with a dynamic web administration interface.
 
 ---
 
-## 🚀 Arquitectura del Proyecto
+## 🚀 Project Architecture
 
-El sistema se divide en dos grandes bloques conectados a través de **Firebase**:
+The system is split into two main blocks connected through **Firebase**:
 
-1.  **App Móvil (Kotlin):** Aplicación nativa para el usuario final que permite la consulta y gestión de productos/alérgenos en tiempo real.
-2.  **Panel de Administración (Angular):** Dashboard web para la gestión masiva del inventario, altas, bajas y modificaciones (CRUD).
+1.  **Mobile App (Kotlin):** A native application for the end-user, enabling real-time product and allergen queries and management.
+2.  **Administration Panel (Angular):** A web dashboard for bulk inventory management, including creations, updates, and deletions (CRUD).
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technological Stack
 
 * **Mobile:** Kotlin (Android SDK), Material Design.
 * **Web:** Angular 18+, TypeScript.
-* **Backend as a Service (BaaS):** * **Firestore:** Base de datos NoSQL en tiempo real.
-    * **Firebase Auth:** Gestión segura de usuarios.
-* **Control de Versiones:** Git & GitHub.
+* **Backend as a Service (BaaS):**
+    * **Firestore:** Real-time NoSQL database.
+    * **Firebase Auth:** Secure user management.
+* **Version Control:** Git & GitHub.
 
-## 📦 Funcionalidades Principales
+## 📦 Key Features
 
-* ✅ **Sincronización Total:** Los cambios realizados en el panel web se reflejan instantáneamente en la app móvil.
-* ✅ **Gestión CRUD:** Control completo sobre el catálogo de productos y sus especificaciones de alérgenos.
-* ✅ **Seguridad:** Acceso restringido mediante autenticación de Firebase.
-
----
-
-## ⚙️ Instalación y Configuración
-
-> **Nota de Seguridad:** Los archivos de configuración de Firebase (`google-services.json` y `app.config.ts`) han sido sustituidos por versiones de ejemplo (*placeholders*) por seguridad. 
-
-Para ejecutar el proyecto localmente:
-1. Clona el repositorio.
-2. Crea un proyecto en la consola de Firebase.
-3. Sustituye los valores en `src/app/app.config.ts` y añade tu `google-services.json` en la carpeta `/app` de Android.
-4. Ejecuta `npm install` en la parte web y sincroniza Gradle en la parte móvil.
+* ✅ **Full Synchronization:** Changes made in the web panel are instantly reflected in the mobile app.
+* ✅ **CRUD Management:** Complete control over the product catalog and its specific allergen details.
+* ✅ **Security:** Restricted access managed via Firebase Authentication.
 
 ---
-## Algunas capturas
+
+## ⚙️ Installation and Setup
+
+> **Security Note:** Firebase configuration files (`google-services.json` and `app.config.ts`) have been replaced with example placeholders for security reasons.
+
+To run the project locally:
+1. Clone the repository.
+2. Create a project in the Firebase Console.
+3. Replace the placeholder values in `src/app/app.config.ts` and add your `google-services.json` into the Android `/app` folder.
+4. Run `npm install` in the web directory and sync Gradle in the mobile directory.
+
+---
+## Screenshots
 
 <img width="473" height="432" alt="imagen" src="https://github.com/user-attachments/assets/b750d2af-c70d-4ee7-99a6-70f0ebbe6e98" />
 
@@ -58,7 +59,5 @@ Para ejecutar el proyecto localmente:
 
 ---
 
-## 👨‍💻 Sobre mí
-Recién graduado en **DAM** y actualmente cursando el **Máster de FP en Desarrollo de Videojuegos y Realidad Virtual**. Apasionado por crear soluciones tecnológicas que resuelvan problemas reales.
-
-[Mi Portfolio en Itch.io (Próximamente)] 
+## 👨‍💻 About Me
+Recently graduated in **Multiplatform Applications Development (DAM)** and currently pursuing a **Master's Degree in Game Development and Virtual Reality**. Passionate about building technological solutions that solve real-world problems.
